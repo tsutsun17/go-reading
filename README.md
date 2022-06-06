@@ -1,3 +1,5 @@
 ## Go Reading
 
-Goの仕様読み会
+Go の仕様読み会
+
+https://go.dev/ref/spec
